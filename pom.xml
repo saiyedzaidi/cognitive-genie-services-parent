@@ -7,7 +7,7 @@
 	</parent>
 
 	<name>cognitive-genie-services-parent</name>
-	<description>Parent POM project for managing dependencies and configuration across the maven projects.</description>
+	<description>Parent POM project for managing dependencies and configuration across microservices maven projects.</description>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sapient.cg</groupId>
 	<artifactId>cognitive-genie-services-parent</artifactId>
@@ -17,12 +17,12 @@
 
 	<organization>
 		<name>Sapient Razorfish</name>
-		<url>http://www.sapientrazorfish.com</url>
+		<url>http://sapient.com</url>
 	</organization>
 
 	<scm>
-		<url>https://tools.publicis.sapient.com/bitbucket-code-commons/scm/cogn/cognitive-genie-services-parent.git</url>
-		<tag>develop</tag>
+		<url>https://github.com/saiyedzaidi/cognitive-genie-services-parent.git</url>
+		<tag>master</tag>
 	</scm>
 
 	<properties>
